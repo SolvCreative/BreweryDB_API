@@ -1,0 +1,15 @@
+C:\REPO\BreweryDB_API\BreweryDB_API\bin\Debug\netcoreapp3.1\BreweryDB_API.exe
+C:\REPO\BreweryDB_API\BreweryDB_API\bin\Debug\netcoreapp3.1\BreweryDB_API.deps.json
+C:\REPO\BreweryDB_API\BreweryDB_API\bin\Debug\netcoreapp3.1\BreweryDB_API.runtimeconfig.json
+C:\REPO\BreweryDB_API\BreweryDB_API\bin\Debug\netcoreapp3.1\BreweryDB_API.runtimeconfig.dev.json
+C:\REPO\BreweryDB_API\BreweryDB_API\bin\Debug\netcoreapp3.1\BreweryDB_API.dll
+C:\REPO\BreweryDB_API\BreweryDB_API\bin\Debug\netcoreapp3.1\BreweryDB_API.pdb
+C:\REPO\BreweryDB_API\BreweryDB_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.csprojAssemblyReference.cache
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.AssemblyInfoInputs.cache
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.AssemblyInfo.cs
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.csproj.CoreCompileInputs.cache
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.csproj.CopyComplete
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.dll
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.pdb
+C:\REPO\BreweryDB_API\BreweryDB_API\obj\Debug\netcoreapp3.1\BreweryDB_API.genruntimeconfig.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AYJ++/a+4hjSPgaWMO7CKfIZQm6fCdPmbhvs/VGWtJOjDCxBLasEVqH7r7rgGBnUJPacw8mddfaPKculCaCBpg==",
+  "dgSpecHash": "UPCBN07VZ5M6MtgF/58l5dF2dRxbWn4JXGz/dWVyYtsgVsnVYkt/ZaUzok60BB3YPJ4mEl/JuaG+BZ7p1LuRmQ==",
   "success": true,
   "projectFilePath": "C:\\REPO\\BreweryDB_API\\BreweryDB_API\\BreweryDB_API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jennifer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
